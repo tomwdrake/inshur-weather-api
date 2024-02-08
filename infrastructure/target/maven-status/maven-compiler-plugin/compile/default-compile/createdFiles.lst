@@ -1,0 +1,7 @@
+com/inshur/weatherapi/infrastructure/WeatherApiApplication.class
+com/inshur/weatherapi/infrastructure/OpenWeatherMapDataService$Forecast.class
+com/inshur/weatherapi/infrastructure/WeatherAPIController.class
+com/inshur/weatherapi/infrastructure/OpenWeatherMapDataService$City.class
+com/inshur/weatherapi/infrastructure/OpenWeatherMapDataService$ForecastResponse.class
+com/inshur/weatherapi/infrastructure/OpenWeatherMapDataService.class
+com/inshur/weatherapi/infrastructure/OpenWeatherMapDataService$Main.class

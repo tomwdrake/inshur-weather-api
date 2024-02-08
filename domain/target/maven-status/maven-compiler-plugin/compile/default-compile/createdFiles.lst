@@ -1,0 +1,3 @@
+com/inshur/weatherapi/domain/WeatherForecast$InvalidLocationException.class
+com/inshur/weatherapi/domain/WeatherForecast$WeatherForecastDay.class
+com/inshur/weatherapi/domain/WeatherForecast.class
